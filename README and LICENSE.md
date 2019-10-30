@@ -11,11 +11,10 @@ CCDL intends to enhance protection beyond a regular disclaimer by not granting l
 CCDL is also an attempt to balance long-windedness, which may detract from the quality of content, with the necessity that content creators, especially those touching on important issues for consumers (health, law, finances), may require protection.
 
 To make CCDL maximxally effective, it is reccomended that at the beginning and end of each piece of content, and at least every 30 minutes or 4000 words, the audience is reminded that:
- * the content is licensed on a limited basis under CCDL, and the audience must agree to CCDL or they do not have permission to consume the content and should stop listening/watching/reading immediately
+ * the content is licensed on a limited basis under CCDL
  * the full text of CCDL can be found at ((LOCATION CCDL CAN BE FOUND)), which includes that:
-   * the content is not meant to be used or relied on, likely contains a mix of fact and opinion, and likely contains inaccuracies
-   * the audience is urged to obtain professional advice on any matter of relevance to them
-
-## The CCDL
+   * the audience must agree to CCDL or they do not have permission to consume the content and should stop listening/watching/reading immediately
+   * the content is not meant to be used or relied on without independant verification
+   * if important: (1) content to be verified by the audience, and (2) audience is urged to obtain professional advice
 
 
