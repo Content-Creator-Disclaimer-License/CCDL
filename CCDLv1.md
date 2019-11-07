@@ -5,6 +5,7 @@ The website, course, blog, video, podcast, document, media, or other content or 
 All intellectual property in the Content is held by the creator of the Content. The Content in confidential unless you have read, understood, and agreed to the terms set out herein. **YOU ARE NOT GRANTED LICENSE TO VIEW, READ, WATCH, LISTEN TO, OR OTHERWISE CONSUME, USE, OR ENJOY THE CONTENT IN ANY MANNER WHATSOEVER, UNLESS YOU HAVE READ, UNDERSTOOD, AND AGREED TO THE TERMS SET OUT HEREIN**
 
 **The Character of the Content**
+
 The Content is provided for informational or entertainment purposes only. The Content is not intended to be authoritative or exhaustive. It does not replace official documents, nor the advice of qualified professionals. It is provided without warranty or guarantee of any kind, and on an “as-is” basis. **Abstract**: in respect of any of the content associated with what brought you to this document (the “Content”), what you see is what you get, and you are responsible for validating and verifying that Content is correct.
 
 The Content is provided on the basis that you release; hold harmless; and indemnify anyone affiliated with the creation, sale, or dissemination of the Content with respect to any liability, costs, or any other damage that may arise from use of or reliance on any of the Content, including the creators, contributors, developers, providers, and publishers of the Content (the "Content Creators") including and the Content Creators’ agents, affiliates, writers, authors, speakers, interviewers, interviewees, etc. (the "Content Providers") **Abstract**: you are solely responsible for your own actions, including if you decide to use or rely on the Content, or share that with anyone else. You will not hold anyone associated with the production of the Content (the "Content Providers") responsible for your or anyone else's use of the Content. You will compensate the Content Providers for their costs if you disregard this. Any problems that arise as a result of you using the Content, or providing the Content to anyone else, are not the problems of the Content Providers and you will compensate the Content Providers for any of their associated costs.
@@ -19,7 +20,8 @@ Any information contained in the Content, whether or not provided by experts or 
 
 Any views or opinions given in the Content are not necessarily the views or opinions of any of the Content Providers.
 
-**Information from Professionals**
+**Content in association with Professionals**
+
 For further certainty, and without limiting the generality of anything else herein, the Content should not be used or relied on and it is not authoritative or exhaustive, for the following reasons. This includes if the Content Providers include professionals in a particular field, speaking about their area of expertise (**Abstract**: here are a bunch of good reasons for the other terms in this document, which also apply to anything professionals might convey in or through the Content):
  * **Abstract: Things change**. The Content may discuss areas which are in flux and of which they can therefore not be certain. The Content may be out of date and a given area discussed by the Content may have changed since the Content was developed.
  * **Abstract: The Content is not developed with the expectation of reliance on or use of the Content**. It instead focuses on conversation and discussion of important points, but should not be expected to provide a thorough or nuanced view of any area. As such, the Content is not issued with the same degree of fastidious, completeness, or accuracy as it might be if there were an expectation of reliance.
@@ -34,6 +36,7 @@ Because of the above:
      * both.
 
 **External Resources and No Endorsement**
+
 The Content may contain links to other resources not developed by the Content Providers, or the other resources themselves (the "External Resources"). he other terms herein apply to the External Resources as if they were part of the Content. Further:
  * The External Resources are provided to help users identify and locate other resources that may be of interest.
  * Parties other than the Content Providers independently develop and maintain the External Resources.
@@ -43,19 +46,25 @@ The Content may contain links to other resources not developed by the Content Pr
 A reference to an External Resource should not be construed to mean that the Content Providers are associated with or legally authorized to use any trademark, trade name, logo or copyrighted symbol that may be reflected in the External Resource. In addition, the mention of another party or its product or services on the Content should not be construed as an endorsement of that party or its product or service. **Abstract**: you may be referred to or provided other resources in the Content. If this happens, those resources are covered by all of the terms herein, any intellectual property of those resources do not necessarily belong to the Content Providers, and those resources have not been endorsed or vetted by the Content Providers.
 
 **Trade Marks**
+
 Certain words, phrases, names, designs or logos used in or in conjunction with the Content may constitute trade marks, service marks or trade name in the Content does not imply that the Content Providers or other entities have granted a license or authorization of any kind to use such marks or names.
 
 **Submissions**
+
 All information submitted to the Content Providers via the internet, including by email, shall be the property of the Content Providers,. Subject to applicable legislation, the Content Providers shall be free to use, for any purpose, any ideas, concepts, know-how or other techniques contained such information, unless otherwise agreed to in writing by the Content Providers. Furthermore, the Content Providers shall not be subject to any obligations of confidentiality regarding any such information submitted to it unless otherwise agreed to in writing by the Content Providers.
 
 **Internet Security**
+
 The Internet is not a secure medium and privacy cannot be ensured. Internet e-mail is vulnerable to interception and forgery. The Content Providers will not be responsible for any damages you or any third party may suffer as a result of the transmission of confidential information that you make to the Content Providers through the Internet, or that you expressly or implicitly authorize the Content Providers to make, or for any errors or any changes made to any transmitted information.
 
 **Choice of Law**
+
 The laws of the Province of British Columbia and the laws of Canada applicable therein shall govern as to the interpretation, validity and effect of this document and your use of the Content, notwithstanding any conflict of laws provisions of your domicile, residence or physical location. You hereby consent and submit to the exclusive jurisdiction of the courts of the Province of British Columbia in any action or proceeding instituted under or related to your use of the Content.
 
 **Severability**
+
 If any of the terms herein, or portions of the terms herein, are found to be unenforceable, the remainder of the terms shall continue in full force and effect, and any unenforceable clauses shall be reconstrued with a purposive interpretation which most protects the Content and the Content Providers from any type of liability arising whatsoever.
 
 **Definitions**
+
 “practical certainty”: whether the actual epistemic probability that a given state of the world differs from epistemic certainty in respect of that state of the world only in ways that are irrelevant to the decision one currently faces
