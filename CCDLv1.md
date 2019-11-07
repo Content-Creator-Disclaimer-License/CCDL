@@ -4,6 +4,8 @@ The website, course, blog, video, podcast, document, media, or other content or 
 
 All intellectual property in the Content is held by the creator of the Content. The Content in confidential unless you have read, understood, and agreed to the terms set out herein. **YOU ARE NOT GRANTED LICENSE TO VIEW, READ, WATCH, LISTEN TO, OR OTHERWISE CONSUME, USE, OR ENJOY THE CONTENT IN ANY MANNER WHATSOEVER, UNLESS YOU HAVE READ, UNDERSTOOD, AND AGREED TO THE TERMS SET OUT HEREIN**
 
+
+
 **The Character of the Content**
 
 The Content is provided for informational or entertainment purposes only. The Content is not intended to be authoritative or exhaustive. It does not replace official documents, nor the advice of qualified professionals. It is provided without warranty or guarantee of any kind, and on an “as-is” basis. **Abstract**: in respect of any of the content associated with what brought you to this document (the “Content”), what you see is what you get, and you are responsible for validating and verifying that Content is correct.
