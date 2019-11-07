@@ -2,6 +2,8 @@
 
 The website, course, blog, video, podcast, document, media, or other content or material, including any information contained therein (the “Content”), that referred you to or otherwise provided you an ability to reach these terms, relies on the terms of this document to set out aspects of your relationship with the Content, and the person(s) who created the Content.
 
+**YOU ARE NOT GRANTED LICENSE TO VIEW, READ, WATCH, LISTEN TO, OR OTHERWISE CONSUME THE CONTENT UNLESS YOU HAVE READ, UNDERSTOOD, AND AGREED TO THE TERMS SET OUT HEREIN**
+
 **The Character of the Content**
 The Content is provided for informational or entertainment purposes only. The Content is not intended to be authoritative or exhaustive. It does not replace official documents, nor the advice of qualified professionals. It is provided without warranty or guarantee of any kind, and on an “as-is” basis. **Abstract**: in respect of any of the content associated with what brought you to this document (the “Content”), what you see is what you get, and you are responsible for validating and verifying that Content is correct.
 
