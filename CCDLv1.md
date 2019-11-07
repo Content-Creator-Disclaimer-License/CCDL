@@ -27,26 +27,33 @@ For further certainty, and without limiting the generality of anything else here
 Because of the above:
  * At best, the Content should be seen as aiming to give you a starting point for your own due-diligence, research and decision-making. It is not meant to be authoritative or exhaustive, and unless otherwise noted, is not tailored to real-world situations. 
  * Before use of or reliance on the Content, you are urged to validate and verify any information gleaned from the Content:
-  * through professional advice,
-  * from at least two other independent sources, or
-  * both.
+     * through professional advice,
+     * from at least two other independent sources, or
+     * both.
 
 **External Resources and No Endorsement**
-The Content may contain links to other resources not developed by the Content Providers, or the other resources themselves; these are provided to help users identify and locate other resources that may be of interest. Parties other than the Content Providers independently develop and maintain these resources. Therefore, the Content Providers does not assume responsibility for the accuracy or appropriateness of the information contained in such resources. In providing links to other resources, or the other resources themselves, the Content Providers is not acting as a publisher or disseminator of these other resources and do not seek to control the content of, or maintain any type of editorial control over such resources. Abstract: you may be referred to or provided other resources in the Content. If this happens, those resources are covered by all of the terms herein, and in addition those resources are not controlled by the makers of the Content.
+The Content may contain links to other resources not developed by the Content Providers, or the other resources themselves (the "External Resources"). he other terms herein apply to the External Resources as if they were part of the Content. Further:
+ * The External Resources are provided to help users identify and locate other resources that may be of interest.
+ * Parties other than the Content Providers independently develop and maintain the External Resources.
+ * The Content Providers does not assume responsibility for the accuracy or appropriateness of the information contained in any External Resources, and in providing links to External Resources, or the External Resources themselves, the Content Providers are not acting as a publisher or disseminator of the External Resources and do not seek to control the content of, or maintain any type of editorial control over such resources.
+ **Abstract**: you may be referred to or provided other resources in the Content. If this happens, those resources are covered by all of the terms herein dealing with the Content, and in addition you should be aware those resources are not controlled by the Content Providers, nor do the Content Providers take any responsibility for those resources (including their accuracy).
 
-A reference to another resource should not be construed to mean that the Content Providers are associated with or is legally authorized to use any trademark, trade name, logo or copyrighted symbol that may be reflected in the link or the description of the link to such other sites. In addition, the mention of another party or its product or services on the Content should not be construed as an endorsement of that party or its product or service. Abstract: you may be referred to or provided other resources in the Content. If this happens, those resources are covered by all of the terms herein, any intellectual property of those resources do not necessarily belong to the makers of the Content, and those resources are not to be seen as having been endorsed or vetted.
+A reference to an External Resource should not be construed to mean that the Content Providers are associated with or legally authorized to use any trademark, trade name, logo or copyrighted symbol that may be reflected in the External Resource. In addition, the mention of another party or its product or services on the Content should not be construed as an endorsement of that party or its product or service. **Abstract**: you may be referred to or provided other resources in the Content. If this happens, those resources are covered by all of the terms herein, any intellectual property of those resources do not necessarily belong to the Content Providers, and those resources have not been endorsed or vetted by the Content Providers.
 
-Trade Marks
+**Trade Marks**
 Certain words, phrases, names, designs or logos used in or in conjunction with the Content may constitute trade marks, service marks or trade name in the Content does not imply that the Content Providers or other entities have granted a license or authorization of any kind to use such marks or names.
 
-Submissions
-All information submitted to the Content Providers via the internet, including by email, shall be the property of the Content Providers, and subject to applicable legislation, the Content Providers shall be free to use, for any purpose, any ideas, concepts, know-how or other techniques contained such information, unless otherwise agreed to in writing by the Content Providers. Furthermore, the Content Providers shall not be subject to any obligations of confidentiality regarding any such information submitted to it unless otherwise agreed to in writing by the Content Providers.
+**Submissions**
+All information submitted to the Content Providers via the internet, including by email, shall be the property of the Content Providers,. Subject to applicable legislation, the Content Providers shall be free to use, for any purpose, any ideas, concepts, know-how or other techniques contained such information, unless otherwise agreed to in writing by the Content Providers. Furthermore, the Content Providers shall not be subject to any obligations of confidentiality regarding any such information submitted to it unless otherwise agreed to in writing by the Content Providers.
 
+**Internet Security**
 The Internet is not a secure medium and privacy cannot be ensured. Internet e-mail is vulnerable to interception and forgery. The Content Providers will not be responsible for any damages you or any third party may suffer as a result of the transmission of confidential information that you make to the Content Providers through the Internet, or that you expressly or implicitly authorize the Content Providers to make, or for any errors or any changes made to any transmitted information.
 
-Choice of Law
-The laws of the Province of British Columbia and the laws of Canada applicable therein shall govern as to the interpretation, validity and effect of this document and your use of the Content notwithstanding any conflict of laws provisions of your domicile, residence or physical location. You hereby consent and submit to the exclusive jurisdiction of the courts of the Province of British Columbia in any action or proceeding instituted under or related to your use of the Content.
+**Choice of Law**
+The laws of the Province of British Columbia and the laws of Canada applicable therein shall govern as to the interpretation, validity and effect of this document and your use of the Content, notwithstanding any conflict of laws provisions of your domicile, residence or physical location. You hereby consent and submit to the exclusive jurisdiction of the courts of the Province of British Columbia in any action or proceeding instituted under or related to your use of the Content.
 
+**Severability**
+If any of the terms herein, or portions of the terms herein, are found to be unenforceable, the remainder of the terms shall continue in full force and effect, and any unenforceable clauses shall be reconstrued with a purposive interpretation which most protects the Content and the Content Providers from any type of liability arising whatsoever.
 
-Definitions
+**Definitions**
 “practical certainty”: whether the actual epistemic probability that a given state of the world differs from epistemic certainty in respect of that state of the world only in ways that are irrelevant to the decision one currently faces
